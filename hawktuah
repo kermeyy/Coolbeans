@@ -2,7 +2,7 @@ print("Kermey Test Aimlock For Dahood Remakes")
 
 getgenv().Aimbot = {
     Status = true,
-    Keybind  = 'C',
+    Keybind  = 'V',
     Hitpart = 'HumanoidRootPart',
     ['Prediction'] = {
         X = 0.137,
